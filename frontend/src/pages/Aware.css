@@ -1,9 +1,15 @@
+* {
+  font-family: fantasy;
+}
+
 .container {
   width: 80%;
   margin: auto;
+  
 }
 
 .articles-container {
+  
   margin-top: 16px;
   margin-bottom: 15px;
 }
@@ -13,30 +19,36 @@
   grid-template-columns: 70% 30%;
   overflow-y: auto;
   margin-top: 20px;
-  
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .article-content {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  padding: 20px;
 }
 
 .description {
-  margin-top: 0; /* Remove default margin */
+  margin-top: 0;
 }
 
 .title {
-  
-  margin-bottom: 0; /* Remove default margin */
+  margin-bottom: 0;
 }
 
 .image {
   display: flex;
   align-items: center;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+  padding-right: 20px;
 }
 
 .image img {
   max-width: 100%;
   max-height: 100%;
+  border-radius: 8px;
 }

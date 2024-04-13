@@ -6,7 +6,7 @@ function LoginForm({ onLogin }) {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    // Check the username and password against the ones stored in your .env file
+   
     if (username === 'abc' && password === '123') {
       onLogin();
     } else {

@@ -1,14 +1,14 @@
 <p float="left">
-  <img src="https://drive.google.com/uc?export=view&id=1wpQ9JehJmasz63HXvxUHZdHqIqeC5SCb" width="450" />
-  <img src="https://drive.google.com/uc?export=view&id=1wntdMI8qxwuPO3LF_0Dx5X_6HPX38Rx3" width="450" /> 
+  <img src="https://drive.google.com/uc?export=view&id=1wpQ9JehJmasz63HXvxUHZdHqIqeC5SCb" width="380" />
+  <img src="https://drive.google.com/uc?export=view&id=1wntdMI8qxwuPO3LF_0Dx5X_6HPX38Rx3" width="380" /> 
 </p>
 <p float="left">
-  <img src="https://drive.google.com/uc?export=view&id=1rBpg4EPslSM5pM83VS9w1IBrMkmz4iri" width="450" />
-  <img src="https://drive.google.com/uc?export=view&id=1pQqxp9N4l_p0DjiqX7oOkOAADZY9Td9H" width="450" />
+  <img src="https://drive.google.com/uc?export=view&id=1rBpg4EPslSM5pM83VS9w1IBrMkmz4iri" width="380" />
+  <img src="https://drive.google.com/uc?export=view&id=1pQqxp9N4l_p0DjiqX7oOkOAADZY9Td9H" width="380" />
 </p>
 <p float="left">
-  <img src="https://drive.google.com/uc?export=view&id=1Gz3hN2DOWFXYpLaMERJer0MZyBMCOMEe" width="450" />
-  <img src="https://drive.google.com/uc?export=view&id=1hAiceESFe_Mkv7beDnsxsW_vU4GWOcOp" width="450" />
+  <img src="https://drive.google.com/uc?export=view&id=1Gz3hN2DOWFXYpLaMERJer0MZyBMCOMEe" width="380" />
+  <img src="https://drive.google.com/uc?export=view&id=1hAiceESFe_Mkv7beDnsxsW_vU4GWOcOp" width="380" />
 </p>
 
 

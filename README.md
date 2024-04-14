@@ -1,5 +1,11 @@
 
 
+![Image 1](https://drive.google.com/uc?export=view&id=1wpQ9JehJmasz63HXvxUHZdHqIqeC5SCb)
+![Image 2](https://drive.google.com/uc?export=view&id=1wntdMI8qxwuPO3LF_0Dx5X_6HPX38Rx3)
+![Image 3](https://drive.google.com/uc?export=view&id=1rBpg4EPslSM5pM83VS9w1IBrMkmz4iri)
+![Image 4](https://drive.google.com/uc?export=view&id=1pQqxp9N4l_p0DjiqX7oOkOAADZY9Td9H)
+![Image 5](https://drive.google.com/uc?export=view&id=1Gz3hN2DOWFXYpLaMERJer0MZyBMCOMEe)
+![Image 6](https://drive.google.com/uc?export=view&id=1NnQPdSsz2LYZzP7BAB9wNEF_BX0ReUv2)
 ## Project Setup
 
 This project utilizes Conda for managing the backend environment and npm for managing frontend dependencies. Follow these steps to set up the project:

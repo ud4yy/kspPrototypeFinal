@@ -63,4 +63,3 @@ This project utilizes Conda for managing the backend environment and npm for man
 
 ---
 
-Feel free to customize this template as needed for your specific project requirements.
